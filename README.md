@@ -1,4 +1,4 @@
-# kapturapantala
+# kapturapantalla
 captura la pantalla, solo html con javascript. Funciona correctamente con Chromium, en firefox y demás solo de podrá grabar pantalla sin audio.  
 
 # Pasos
